@@ -6,7 +6,7 @@ The problem: The 8-puzzle is a sliding puzzle that is played on a 3-by-3 grid wi
 
 0  1  3          1  0  3          1  2  3                                                                                             
 4  2  6   ==>    4  2  6   ==>    4  0  6                                                                                         
-7  5  8          7  5  8          7  5  8                                                                                                 
+7  5  8          7  5  8          7  5  8                                                                                              
 
       1  2  3           1  2  3                                            
 ==>   4  5  6    ==>    4  5  6                                                                   
